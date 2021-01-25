@@ -1,3 +1,13 @@
+.one {
+  color: white;
+  font-size: 14px;
+}
+.too {
+  color: blue;
+}
+.three {
+  color: red;
+}
 .menu-background ul {
   background: #D4E7EE;
   overflow: hidden;
@@ -14,5 +24,5 @@ li {
   color: #29838C;
 }
 .menu a:hover {
-  background: #ADC0CE
+  background: #ADC0CE;
 }
