@@ -4,9 +4,11 @@
 }
 .too {
   color: blue;
+  font-sixe: 14px;
 }
 .three {
   color: red;
+  font-size: 14px;
 }
 .menu-background ul {
   background: #D4E7EE;
