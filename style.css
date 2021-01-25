@@ -3,7 +3,7 @@
   overflow: hidden;
   padding: 0;
 }
-.menu li {
+li {
   float: left;
 }
 .menu a {
@@ -13,4 +13,6 @@
   background: rgba(173, 192, 206, .3);
   color: #29838C;
 }
-.menu a:hover {background: #ADC0CE}
+.menu a:hover {
+  background: #ADC0CE
+}
