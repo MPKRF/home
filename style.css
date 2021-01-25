@@ -14,6 +14,20 @@
   color: red;
   font-size: 14px;
 }
+nav {
+  display: block;
+  width: 660px;
+  margin: 0 auto 30px;
+}
+ul {
+  list-style: none; 
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  font-family: 'Lora', serif;
+  transition: .5s linear;
+}
 .menu-background ul {
   background: #D4E7EE;
   overflow: hidden;
