@@ -1,6 +1,7 @@
 .logo {
  width: 50px;
- bachground: red;
+ height: 50px;
+ bachground-color: red;
 }
 .one {
   color: green;
