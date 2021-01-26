@@ -32,7 +32,7 @@ a {
   transition: .5s linear;
 }
 ul {
-  background: #D4E7EE;
+  background: #800000;
   overflow: hidden;
   padding: 0;
 }
@@ -44,7 +44,7 @@ a {
   padding: 1em;
   border-right: 1px solid #ADC0CE;
   background: rgba(173, 192, 206, .3);
-  color: #800000;
+  color: white;
 }
 a:hover {
   background: #FFC0CB;
