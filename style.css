@@ -42,7 +42,7 @@ li {
 a {
   display: block;
   padding: 1em;
-  border-right: 1px solid #ADC0CE;
+  border-right: 1px solid white;
   background: #800000;
   color: white;
 }
