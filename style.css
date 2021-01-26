@@ -3,7 +3,11 @@
  height: 20px;
  bachground-color: red;
 }
+.rights {
+ color: white;
+}
 .footerOne {
+ height: 50px;
  background-color: black;
 }
 .one {
