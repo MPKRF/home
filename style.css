@@ -4,7 +4,7 @@
 }
 .one {
   color: green;
-  font-faily: Molot;
+  font-faily: Molot bold;
   font-size: 15px;
 }
 .too {
@@ -18,6 +18,9 @@
   font-size: 14px;
 }
 nav {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
   display: block;
   width: 1000px;
   margin: 0 auto 30px;
