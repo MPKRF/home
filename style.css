@@ -23,7 +23,7 @@ nav {
   margin: 0 auto 30px;
 }
 ul {
-  list-style: none; 
+  list-style-type: none;
   margin: 0 auto;
 }
 a {
