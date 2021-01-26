@@ -3,15 +3,18 @@
  bachground-color: red;
 }
 .one {
-  color: white;
+  color: green;
+  font-faily: Arial Black;
   font-size: 14px;
 }
 .too {
   color: blue;
+  font-faily: Arial Black;
   font-sixe: 14px;
 }
 .three {
   color: red;
+  font-faily: Arial Black;
   font-size: 14px;
 }
 .menu-background {
