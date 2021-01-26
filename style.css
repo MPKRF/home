@@ -17,35 +17,35 @@
   font-faily: Arial Black;
   font-size: 14px;
 }
-.menu-background {
+nav {
   display: block;
   width: 660px;
   margin: 0 auto 30px;
 }
-.menu-background ul {
+ul {
   list-style: none; 
   margin: 0 auto;
 }
-.menu-background a {
+a {
   text-decoration: none;
   font-family: 'Arial';
   transition: .5s linear;
 }
-.menu-background ul {
+ul {
   background: #D4E7EE;
   overflow: hidden;
   padding: 0;
 }
-.menu-background li {
+li {
   float: left;
 }
-.menu a {
+a {
   display: block;
   padding: 1em;
   border-right: 1px solid #ADC0CE;
   background: rgba(173, 192, 206, .3);
   color: #29838C;
 }
-.menu a:hover {
+a:hover {
   background: #ADC0CE;
 }
