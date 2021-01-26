@@ -13,12 +13,12 @@
 }
 .too {
   color: blue;
-  font-faily: Arial Black;
-  font-sixe: 17px;
+  font-faily: Arial Black bold;
+  font-sixe: 19px;
 }
 .three {
   color: red;
-  font-faily: Arial Black;
+  font-faily: Arial Black bold;
   font-size: 19px;
 }
 nav {
