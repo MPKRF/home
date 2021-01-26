@@ -19,7 +19,7 @@
 }
 nav {
   display: block;
-  width: 660px;
+  width: 1000px;
   margin: 0 auto 30px;
 }
 ul {
@@ -44,8 +44,8 @@ a {
   padding: 1em;
   border-right: 1px solid #ADC0CE;
   background: rgba(173, 192, 206, .3);
-  color: #29838C;
+  color: #800000;
 }
 a:hover {
-  background: #ADC0CE;
+  background: #FFC0CB;
 }
