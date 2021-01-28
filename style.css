@@ -8,11 +8,11 @@
 }
 .social-icons {
   height: 50px;
-  width: 1000px;
+  width: 500px;
   background-color: black;
 }
 .subfooter {
- width: 1000px;
+ width: 500px;
  height: 12px;
  background-color: #800000;
 }
@@ -80,6 +80,12 @@ a:hover {
     padding: 6px;
     color: #000;
 }
-.youtube a:hover {background: #c4302b; color: #fff;}
-.vk a:hover {background: #5d84ae; color: #fff;}
-.telegram a:hover {background: #249bd7; color: #fff;}
+.youtube a:hover {
+ background: #c4302b; color: #fff;
+}
+.vk a:hover {
+ background: #5d84ae; color: #fff;
+}
+.telegram a:hover {
+ background: #249bd7; color: #fff;
+}
