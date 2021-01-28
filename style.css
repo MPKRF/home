@@ -8,7 +8,7 @@
 }
 .footerOne {
   width: 1000px;
-  margin: 0 auto 30px;
+  margin: 0 auto 20px;
  background-color: black;
 }
 .subfooter {
@@ -37,7 +37,7 @@
   list-style-type: none;
   display: block;
   width: 1000px;
-  margin: 0 auto 30px;
+  margin: 0 auto 20px;
 }
 ul {
   margin: 0 auto;
