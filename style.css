@@ -6,10 +6,8 @@
 .rights {
  color: white;
 }
-.footerOne {
-  margin: 5;
-  padding: 5;
- width: 1000px;
+.social-icons {
+  width: 1000px;
   background-color: black;
 }
 .subfooter {
