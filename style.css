@@ -66,3 +66,7 @@ a {
 a:hover {
   background: #FFC0CB;
 }
+.content {
+  margin: 0;
+  padding: 0;
+}
