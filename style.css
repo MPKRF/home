@@ -83,15 +83,3 @@ a:hover {
  -o-transition: all .8s ease-in-out;
  transition: all .8s ease-in-out;
 }
-.menu:target {
- margin-top: 0%;
- background-color: #ffcb00;
-}
-#home:target ~ #header #news, #about-project, #contacts, #donate
-#news:target ~ #header #about-project, #contacts, #donate
-#about-project:target ~ #header #news, #contacts, #donate
-#contacts:target ~ #header #news, #about-project, #donate
-#donate:target ~ #header #news, #about-project, #contacts {
- background: #000;
- color: #fff;
-}
