@@ -1,3 +1,4 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 .logo {
  width: 20px;
  height: 20px;
@@ -75,7 +76,6 @@ a:hover {
     background: #fff;
     border: 1px solid #ccc;
     box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
-    border-radius: 50px;
     margin: 0 10px 10px 0;
     padding: 6px;
     color: #000;
