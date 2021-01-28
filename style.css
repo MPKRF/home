@@ -8,11 +8,12 @@
 }
 .footerOne {
   width: 1000px;
-  margin: 0 auto 20px;
+  margin: 0;
+  padding: 0;
  background-color: black;
 }
 .subfooter {
- margin: 0 auto 30px;
+ margin: 0;
  height: 10px;
  background-color: #800000;
 }
